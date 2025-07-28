@@ -53,7 +53,7 @@ export default function About() {
             <div className="col-lg-6">
               <h1 className="display-4 fw-bold mb-4">About Me</h1>
               <p className="lead mb-4">
-                I'm a passionate digital creator with a love for innovative technology and beautiful design. 
+                I&apos;m a passionate digital creator with a love for innovative technology and beautiful design. 
                 My journey in the digital world has been driven by curiosity and a desire to solve real-world problems.
               </p>
               <div className="d-flex gap-3">
@@ -96,10 +96,10 @@ export default function About() {
                   <h5 className="fw-bold mb-3">My Philosophy</h5>
                   <p>
                     I approach every project with a user-first mindset, ensuring that every design decision and 
-                    technical implementation serves the end user's needs.
+                    technical implementation serves the end user&apos;s needs.
                   </p>
                   <p>
-                    Collaboration and continuous learning are at the heart of my work ethic. I'm always exploring 
+                    Collaboration and continuous learning are at the heart of my work ethic. I&apos;m always exploring 
                     new technologies and design trends to stay ahead of the curve.
                   </p>
                 </div>

@@ -112,7 +112,7 @@ export default function Services() {
       </section>
 
       {/* Services Overview */}
-      <section className="py-5 bg-body-secondary">
+      <section className="py-5">
         <div className="container">
           <div className="row">
             <div className="col-lg-8 mx-auto text-center mb-5">
@@ -138,7 +138,7 @@ export default function Services() {
                     <p className="card-text mb-4">{service.description}</p>
                     
                     <div className="mb-4">
-                      <h6 className="fw-bold mb-3">What's Included:</h6>
+                      <h6 className="fw-bold mb-3">What&apos;s Included:</h6>
                       <ul className="list-unstyled">
                         {service.features.map((feature, featureIndex) => (
                           <li key={featureIndex} className="mb-2">
@@ -271,7 +271,7 @@ export default function Services() {
             <div className="col-lg-8 mx-auto text-center">
               <h2 className="display-5 fw-bold mb-4">Ready to Start Your Project?</h2>
               <p className="lead mb-4">
-                Let's discuss your needs and create something amazing together.
+                Let&apos;s discuss your needs and create something amazing together.
               </p>
               <div className="d-flex gap-3 justify-content-center">
                 <a href="/contact" className="btn btn-light btn-lg">

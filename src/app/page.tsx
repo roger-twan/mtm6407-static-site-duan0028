@@ -39,7 +39,7 @@ export default function Home() {
             <div className="col-lg-8 mx-auto text-center">
               <h2 className="display-5 fw-bold mb-4">About Me</h2>
               <p className="lead mb-4">
-                I'm a passionate digital designer and developer with years of experience creating 
+                I&apos;m a passionate digital designer and developer with years of experience creating 
                 compelling web experiences, mobile applications, and interactive digital solutions.
               </p>
               <div className="row g-4 mt-5">
@@ -120,10 +120,10 @@ export default function Home() {
             <div className="col-lg-8 mx-auto text-center">
               <h2 className="display-5 fw-bold mb-4">Ready to Start Your Project?</h2>
               <p className="lead mb-4">
-                Let's collaborate to bring your vision to life with innovative design and development solutions.
+                Let&apos;s collaborate to bring your vision to life with innovative design and development solutions.
               </p>
               <Link href="/contact" className="btn btn-primary btn-lg">
-                Let's Talk
+                Let&apos;s Talk
               </Link>
             </div>
           </div>

@@ -35,7 +35,7 @@ export default function Contact() {
             <div className="col-lg-8 mx-auto text-center">
               <h1 className="display-4 fw-bold mb-4">Get In Touch</h1>
               <p className="lead mb-0">
-                Ready to start your next project? Let's discuss how I can help bring your ideas to life.
+                Ready to start your next project? Let&apos;s discuss how I can help bring your ideas to life.
               </p>
             </div>
           </div>
@@ -239,7 +239,7 @@ export default function Contact() {
                         <i className="bi bi-check-circle me-2"></i>
                         Available for New Projects
                       </h5>
-                      <p className="mb-0">I'm currently accepting new client work and excited to collaborate on interesting projects.</p>
+                      <p className="mb-0">I&apos;m currently accepting new client work and excited to collaborate on interesting projects.</p>
                     </div>
                   </div>
                 </div>
